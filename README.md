@@ -1,10 +1,10 @@
 # International Happiness of People (IHoP)
 
 ## Team
-[Ryan](https://github.com/ryanmattt): Map Chart Designer and Head Programmer
-[Leonard](https://www.linkedin.com/in/leonard-mayorga-435217241/): Cartogram Designer and Programmer
-[Nick](https://www.instagram.com/nicholaspapapanou/): Head Designer and Associate Programmer
-[Gavin](https://www.instagram.com/gavin_tatum/): Radar Chart Designer and Programmer, Film Director & Visionary
+[Ryan](https://github.com/ryanmattt): Map Chart Designer and Head Programmer<br>
+[Leonard](https://www.linkedin.com/in/leonard-mayorga-435217241/): Cartogram Designer and Programmer<br>
+[Nick](https://www.instagram.com/nicholaspapapanou/): Head Designer and Associate Programmer<br>
+[Gavin](https://www.instagram.com/gavin_tatum/): Radar Chart Designer and Programmer, Film Director & Visionary<br>
 [Brett](https://instagram.com/brett__donshik): Task and Communication Manager
 
 ## Project Intro
